@@ -1,2 +1,0 @@
-This a line from Branch A;
-This a line from Branch A System B;
