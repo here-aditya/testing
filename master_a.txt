@@ -1,1 +1,2 @@
 Test text in master_a.txt
+Line 1: This is new line from System B
